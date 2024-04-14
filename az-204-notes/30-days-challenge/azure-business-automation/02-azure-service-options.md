@@ -44,7 +44,7 @@ Workflows can start based on schedules or external events.
 
 - Part of Azure App Service for running programs or scripts automatically.
 - Types include continuous and triggered.
-- Supports various languages including C#, Python, and JavaScript.
+- Supports C# if you're using the WebJobs SDK.
 - Offers WebJobs SDK for easier interaction with Azure App Service.
 
 ### Azure Functions
